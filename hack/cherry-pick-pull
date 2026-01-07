@@ -22,6 +22,8 @@
 # For example:
 #  cherry_pick_pull.sh release-v3.12 3320
 
+# test-lucas
+
 set -o errexit
 set -o nounset
 set -o pipefail
